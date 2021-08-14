@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, ui/ux design**
 
-- 📫 How to reach me **robinganesh@gmail.com**
+- 📫 How to reach me **robinganesh007@gmail.com**
 
 - ⚡ Fun fact **I am an Astrophile**
 
