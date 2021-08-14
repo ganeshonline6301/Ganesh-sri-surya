@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="<a href="https://storyset.com/web">Web illustrations by Storyset</a>">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/78/5a/1b/785a1b9c359640da6bc9cfe3670b42ba.png">
 - 🌱 I’m currently learning **Bootstrap, React.js**
 
 - 💬 Ask me about **Python, ui/ux design**
